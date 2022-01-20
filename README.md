@@ -2,7 +2,7 @@
 Batch-coded program to activate Windows for free.
 
 It also allows you to use a personalized activation key if you have purchased one, or to deactivate Windows.
-## La documentation
+## documentation
 Remember to go to the [wiki](https://github.com/TheGodVanis) which will explain in detail how the program is used and how it works.
 
 ## Download 
